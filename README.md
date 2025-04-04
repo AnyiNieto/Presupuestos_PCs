@@ -1,5 +1,5 @@
 # Presupuestos_PCs
-[header](header.jpeg)
+[header](header.jpg)
 # 1º PC AMD 💻
 
 | Tipos de Componentes       | Componentes                                                                 | Precios 💰   | URL 🔗 |
