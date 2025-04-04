@@ -1,8 +1,8 @@
-# Presupuestos_PCs
+# Presupuestos_PCs ✿
 ![header](header.jpg)
 # 1º PC AMD 💻
 
-| Tipos de Componentes       | Componentes                                                                 | Precios 💰   | URL 🔗 |
+| Tipos de Componentes ✿       | Componentes                                                                 | Precios 💰   | URL 🔗 |
 |--------------------------|----------------------------------------------------------------------------|-----------|-----|
 | Fuente de Alimentación   | Corsair CX750  750 W 80 Plus Bronze                               | 68,90€   |  [Enlace]([https://www.pccomponentes.com/fuente-alimentacion-mars-gaming-mpb750si-atx-750w-80-plus-bronze-fuente-alimentacion](https://www.pccomponentes.com/corsair-cx750-750-w-80-plus-bronze?s_kwcid=AL!14405!3!!!!x!!&gad_source=1&gclid=Cj0KCQjwhr6_BhD4ARIsAH1YdjA9UXeJgbEd14SniaTEUg-oedO0_Qr3wGbRfnFB-n2Tlp_MvUxVL-8aAnwIEALw_wcB))  |
 | Refrigeración            | Tempest Liquid Cooler 240 Kit Refrigeración Líquida Blanco    | 64,90€   | [Enlace](https://www.pccomponentes.com/tempest-liquid-cooler-240-kit-refrigeracion-liquida-blanco)    |
@@ -15,7 +15,7 @@
 
 # 2º PC INTEL 💻
 
-| Tipos de Componentes       | Componentes                                                                 | Precios 💰   | URL🔗 |
+| Tipos de Componentes ✿      | Componentes                                                                 | Precios 💰   | URL🔗 |
 |--------------------------|----------------------------------------------------------------------------|-----------|-----|
 | Fuente de Alimentación   | Corsair CX750 750 W 80 Plus Bronze                               | 68,90€    |  [Enlace](https://www.pccomponentes.com/corsair-cx750-750-w-80-plus-bronze)  |
 | Refrigeración            | Tempest Liquid Cooler 240 Kit Refrigeración Líquida Blanco    | 64,90€    | [Enlace](https://www.pccomponentes.com/tempest-liquid-cooler-240-kit-refrigeracion-liquida-blanco)    |
