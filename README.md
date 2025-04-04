@@ -11,7 +11,7 @@
 | Placa Base               | MSI B550M PRO-VDH                                                          | 93,29€    |  [Enlace](https://www.pccomponentes.com/msi-b550m-pro-vdh)   |
 | Procesador               | AMD Ryzen 7 5800X 3.7GHz                                                   | 129,90€   |  [Enlace](https://www.pccomponentes.com/amd-ryzen-5-5600x-37ghz)   |
 | Tarjeta Gráfica          | MSI GeForce RTX 4060 VENTUS 2X BLACK OC 8GB GDDR6 DLSS3                  | 319,90€   |  [Enlace](https://www.pccomponentes.com/msi-geforce-rtx-4060-ventus-2x-black-oc-8gb-gddr6-dlss3)   |
-| **Total €**                |     Enlace al configurador --->                                                                       | **881,81€** | [Enlace](https://www.pccomponentes.com/configurador/6dB7F8911)  |
+| **Total €**                |     Enlace al configurador →                                                                      | **881,81€** | [Enlace](https://www.pccomponentes.com/configurador/6dB7F8911)  |
 
 # 2º PC INTEL 💻
 
@@ -24,4 +24,4 @@
 | Placa Base               | Gigabyte B760M D3HP DDR4                                                         | 108,16€    | [Enlace](https://www.pccomponentes.com/placa-base-gigabyte-b760m-d3hp-ddr4)    |
 | Procesador               | Intel Core i5-14400F 2.5/4.7GHz Box                                                   | 143,99€   | [Enlace](https://www.pccomponentes.com/intel-core-i5-14400f-25-47ghz-box)    |
 | Tarjeta Gráfica          | SUS Dual GeForce RTX 4060 EVO OC Edition 8GB GDDR6 DLSS3 | 333,99€   | [Enlace](https://www.pccomponentes.com/asus-dual-geforce-rtx-4060-evo-oc-edition-8gb-gddr6-dlss3)    |
-| **Total €**                |     Enlace al configurador --->                                                                       | **867,87€** | [Enlace](https://www.pccomponentes.com/configurador/34Be4d097)    |
+| **Total €**                |     Enlace al configurador →                                                                      | **867,87€** | [Enlace](https://www.pccomponentes.com/configurador/34Be4d097)    |
